@@ -1,0 +1,7 @@
+executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
+
+Segue o CheckList de algoritomo com todos os passos de Sicronização de um Repo no GitHub
+
+[] Repositorio criado 23/11/2022 para concluir o projeto do bootcamp DIO
+[] Processo de atualização executado - git clone executado
+[] Processo de sincronização executado
